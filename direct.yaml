@@ -4,3 +4,4 @@ payload:
   - 'gae2-spclient.spotify.com'
   - 'guc3-spclient.spotify.com'
   - '+.ls.apple.com'
+  - '+.ddns.net'
