@@ -1,7 +1,3 @@
 payload:
-  - 'spclient.wg.spotify.com'
-  - 'gew1-spclient.spotify.com'
-  - 'gae2-spclient.spotify.com'
-  - 'guc3-spclient.spotify.com'
   - '+.ddns.net'
   - '+.cdni.callofduty.com'
