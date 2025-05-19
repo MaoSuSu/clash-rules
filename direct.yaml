@@ -2,3 +2,4 @@ payload:
   - '+.ddns.net'
   - '+.cdni.callofduty.com'
   - '+.storage.googleapis.com'
+  - '+.cloudflare-dns.com'
