@@ -2,4 +2,7 @@ payload:
   - '+.ddns.net'
   - '+.cdni.callofduty.com'
   - '+.storage.googleapis.com'
-  - '+.cloudflare-dns.com'
+  - 'dns.google'
+  - 'doh.opendns.com'
+  - 'chrome.cloudflare-dns.com'
+  - 'doh.cleanbrowsing.org'
