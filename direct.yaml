@@ -1,7 +1,6 @@
 payload:
   - '+.ddns.net'
   - '+.cdni.callofduty.com'
-  - '+.storage.googleapis.com'
   - '+.cloudflare-dns.com'
   - 'dns.google'
   - '1.1.1.1/32'
