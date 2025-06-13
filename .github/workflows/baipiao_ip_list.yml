@@ -30,7 +30,7 @@ jobs:
       - name: Download
         if: steps.check_url.outputs.url_status_ok == 'true'
         run: |
-          curl -L "https://raw.cmliussss.com/ProxyIP/ProxyIP.txt" | grep -E '#HK|#SG|#JP|#KR' > baipiao.txt
+          curl -L "https://raw.cmliussss.com/ProxyIP/ProxyIP.txt" | grep -E '#HK|#SG|#JP' > baipiao.txt
 
       - name: 提交更新的IP库文件
         if: steps.check_url.outputs.url_status_ok == 'true'
