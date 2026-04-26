@@ -1,1 +1,2 @@
 .sideloadly.io
+.spotify.com
