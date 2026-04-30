@@ -1,8 +1,2 @@
-.gae2-spclient.spotify.com
-.gae-spclient.spotify.com
-.guc3-spclient.spotify.com
-.guc-spclient.spotify.com
-.gew1-spclient.spotify.com
-.gew-spclient.spotify.com
-.gew4-spclient.spotify.com
+.spclient.wg.spotify.com
 .open.spotify.com
