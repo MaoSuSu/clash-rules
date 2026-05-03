@@ -1,3 +1,4 @@
+.jsdelivr.net
 .sideloadly.io
 .spotify.com
 .cloudflare.com
