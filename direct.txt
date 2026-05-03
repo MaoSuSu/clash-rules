@@ -1,2 +1,3 @@
 .sideloadly.io
 .spotify.com
+.challenges.cloudflare.com
